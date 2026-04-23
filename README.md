@@ -16,4 +16,13 @@ Browse the recipes and pick one that sounds good. Each recipe includes ingredien
 
 ## Contributing
 
-Found a recipe that works? Feel free to add it!
+Found a recipe that works? We'd love to have it!
+
+1. **Fork** this repo (click the Fork button on GitHub)
+2. **Clone** your fork to your computer
+3. **Add your recipe** as a new `.md` file
+4. **Commit** with a clear message (e.g., "added recipe for [dish name]")
+5. **Push** to your fork
+6. **Open a Pull Request** back to this repo with a description of your recipe
+
+We'll review and merge it in!
